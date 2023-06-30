@@ -1,0 +1,41 @@
+.contact-card {
+	margin-bottom: 1.5vw;
+	padding: 2vw 4vw;
+	width: 80%;
+	background: #234;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 1vw;
+	box-shadow: #223 0 0 1vw;
+}
+
+.profile-photo {
+	height: 8vw;
+	padding: 0.5vw;
+	border-radius: 50%;
+	border: #f8b04a 1vw dotted;
+}
+
+.contact-details {
+	margin: 0 auto 0 2vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.contact-name {
+	font-size: 4vw;
+	color: white;
+}
+
+.contact-phone {
+	font-size: 2vw;
+	color: #ccc;
+}
+
+.btn-img {
+	margin: auto 0 auto auto;
+  height: 8vw;
+  padding: 1vw;
+}

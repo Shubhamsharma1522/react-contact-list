@@ -1,0 +1,48 @@
+#contact-form {
+	width: 80%;
+	margin: 3vw;
+	padding: 2vw 4vw;
+	background: #123;
+	color: white;
+	border-radius: 1vw;
+	box-shadow: #223 0 0 2vw;
+	
+}
+
+form {
+	/*margin: 2vw;
+	padding: 1vw 2vw;
+	background: #123;
+	color: white;
+	border-radius: 1vw;
+	box-shadow: #223 0 0 2vw;
+	*/display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.form-fields {
+	display: flex;
+	flex-direction: column;
+	margin: 2vw 4vw 2vw 1vw;
+}
+
+label {
+	font-size: 4vw;
+	font-weight: bolder;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+label span {
+	margin-right: 2vw;
+}
+
+input {
+	width: 25vw;
+	font-size: 3vw;
+	padding: 0;
+	margin: 0;
+	appearance: none;
+}

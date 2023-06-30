@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #556;
+	width: 100vw;
+	/*height: 100vh;*/
+}
+
+#root {
+	font-family: "Roboto Mono", "Victor Mono";
+	margin: 0;
+	padding: 0;
+}

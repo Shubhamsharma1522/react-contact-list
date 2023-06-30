@@ -1,0 +1,7 @@
+.contact-list-app {
+	margin: 0 auto;
+	max-width: 80%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
